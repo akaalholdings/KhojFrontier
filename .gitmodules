@@ -1,0 +1,3 @@
+[submodule "azure-sql-mcp"]
+	path = azure-sql-mcp
+	url = https://github.com/akaalholdings/azure-sql-mcp.git
